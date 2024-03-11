@@ -14,9 +14,8 @@
   "type": "module",
   "license": "ISC",
   "dependencies": {
-    "chai": "^5.1.0",
-    "chai-http": "^4.4.0",
-    "request": "^2.88.2"
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0"
   },
   "devDependencies": {
     "mocha": "^10.3.0"
